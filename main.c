@@ -1,4 +1,4 @@
-//Basak Su Gedik 21118080072
+//Basak Su Gedik
 
 #include <stdio.h>
 #include <stdlib.h>
